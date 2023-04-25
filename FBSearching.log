@@ -1,0 +1,38 @@
+
+2023-04-25 17:44:38,738 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:966] Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 17:44:38,793 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1021] Exporting webdriver.chrome.driver as C:\Users\ruxia\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 17:51:53,535 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:966] Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 17:51:53,594 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1021] Exporting webdriver.chrome.driver as C:\Users\ruxia\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 17:51:57,731 INFO [main] o.e.Logback [Logback.java:17] User home page loaded.
+2023-04-25 17:52:38,085 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:966] Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 17:52:38,123 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1021] Exporting webdriver.chrome.driver as C:\Users\ruxia\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 17:52:42,183 INFO [main] o.e.Logback [Logback.java:17] User home page loaded.
+2023-04-25 17:53:34,462 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:966] Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 17:53:34,498 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1021] Exporting webdriver.chrome.driver as C:\Users\ruxia\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 17:53:38,674 INFO [main] o.e.Logback [Logback.java:17] User home page loaded.
+2023-04-25 17:59:49,092 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:966] Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 17:59:49,138 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1021] Exporting webdriver.chrome.driver as C:\Users\ruxia\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 17:59:52,034 INFO [main] o.e.Logback [Logback.java:17] User home page loaded.
+2023-04-25 18:41:02,379 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:966] Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 18:41:02,398 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1021] Exporting webdriver.chrome.driver as C:\Users\ruxia\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 18:41:05,918 INFO [main] o.e.Logback [Logback.java:17] User home page loaded.
+2023-04-25 18:41:06,132 ERROR [main] o.e.Logback [Logback.java:19] Search text input was successful.
+2023-04-25 18:41:07,154 ERROR [main] o.e.Logback [Logback.java:16] Search failed.
+2023-04-25 18:44:54,909 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:966] Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 18:44:54,968 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1021] Exporting webdriver.chrome.driver as C:\Users\ruxia\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 18:44:57,757 INFO [main] o.e.Logback [Logback.java:17] User home page loaded.
+2023-04-25 18:44:58,178 INFO [main] o.e.Logback [Logback.java:19] Search text input was successful.
+2023-04-25 18:44:59,206 INFO [main] o.e.Logback [Logback.java:15] Search was successful.
+2023-04-25 18:45:18,969 ERROR [main] o.e.Logback [Logback.java:16] Search failed.
+2023-04-25 19:04:47,702 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:966] Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 19:04:47,745 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1021] Exporting webdriver.chrome.driver as C:\Users\ruxia\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 19:04:51,057 INFO [main] o.e.Logback [Logback.java:17] User home page loaded.
+2023-04-25 19:04:51,494 INFO [main] o.e.Logback [Logback.java:19] Search text input was successful.
+2023-04-25 19:04:52,521 INFO [main] o.e.Logback [Logback.java:15] Search was successful.
+2023-04-25 19:04:52,525 INFO [main] o.e.Logback [Logback.java:21] URL after search: https://www.facebook.com/search/top/?q=Pulp%20Fiction
+2023-04-25 19:06:21,080 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:966] Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-25 19:06:21,119 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1021] Exporting webdriver.chrome.driver as C:\Users\ruxia\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-25 19:06:24,580 INFO [main] o.e.Logback [Logback.java:17] User home page loaded.
+2023-04-25 19:06:24,808 INFO [main] o.e.Logback [Logback.java:19] Search text input was successful.
+2023-04-25 19:06:25,894 INFO [main] o.e.Logback [Logback.java:15] Search was successful.
+2023-04-25 19:06:25,924 INFO [main] o.e.Logback [Logback.java:21] URL after search: https://www.facebook.com/search/top/?q=Pulp%20Fiction
