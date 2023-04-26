@@ -16,7 +16,7 @@ public class FBSearching
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--remote-allow-origins=*");
         options.addArguments("--disable-notifications");
-        
+
         /* This option opens the Chrome window with specified user profile.
         It is useful for when you wish to already be logged in.
         Replace the dir path with the path to your own user, and make sure to be logged in to facebook on your
@@ -25,23 +25,23 @@ public class FBSearching
         String textToSearchFor = "Pulp Fiction";
 
         try {
-            // Create an instance of ChromeDriver with the options
+            // Create an instance of ChromeDriver with the options & navigate to facebook
             ChromeDriver driver = new ChromeDriver(options);
             driver.manage().window().maximize();
-
-            // Navigate to homepage
             driver.get("https://www.facebook.com/");
             Logback.navigationSuccess();
-            // Find & click posting text field
             try {
+                // Find search field, enter search text and press enter
                 WebElement searchField = driver.findElement(By.cssSelector("[aria-label='Search Facebook']"));
                 searchField.sendKeys(textToSearchFor);
                 searchField.sendKeys(Keys.ENTER);
                 Logback.searchInputSuccess();
                 Thread.sleep(1000);
                 try {
+                    // Look for element containing "Search results", if found search is successful
                     driver.findElement(By.xpath("//*[contains(text(), 'Search results')]"));
                     Logback.searchSuccess();
+                    // Log URL after successful search
                     Logback.logURL(driver.getCurrentUrl());
                 }
                 catch(Exception all){
