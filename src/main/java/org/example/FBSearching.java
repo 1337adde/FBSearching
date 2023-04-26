@@ -16,6 +16,7 @@ public class FBSearching
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--remote-allow-origins=*");
         options.addArguments("--disable-notifications");
+        
         /* This option opens the Chrome window with specified user profile.
         It is useful for when you wish to already be logged in.
         Replace the dir path with the path to your own user, and make sure to be logged in to facebook on your
@@ -50,39 +51,6 @@ public class FBSearching
             catch(Exception all){
                 Logback.searchInputFailure();
             }
-
-
-
-
-/*
-            // Find & put down current time into text field
-            String time = String.valueOf(LocalTime.now());
-            WebElement active = driver.switchTo().activeElement();
-            active.sendKeys("Current time is " + time);
-            Thread.sleep(1000);
-
-            // Could not locate the element for the post button, so this uses
-            // TAB & ENTER keys to navigate to and push the button instead
-            for (int i = 0; i < 10; i++) {
-                active.sendKeys(Keys.TAB);
-                active = driver.switchTo().activeElement();
-            }
-            active.sendKeys(Keys.ENTER);
-            // Giving FB time to post after clicking
-            Thread.sleep(3000);
-
-
-            // Find the post, loggs the outcome
-            try {
-                // Creating temporary String containing the xpath expression + variable time.
-                String xpathPath = "//*[contains(text(), '" + time + "')]";
-                driver.findElement(By.xpath(xpathPath));
-                Logback.postSuccess();
-            } catch (Exception all) {
-                Logback.postFailure();
-            }
-
- */
         } catch (Exception all) {
             Logback.navigationFailure();
         }

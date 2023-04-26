@@ -36,3 +36,21 @@
 2023-04-25 19:06:24,808 INFO [main] o.e.Logback [Logback.java:19] Search text input was successful.
 2023-04-25 19:06:25,894 INFO [main] o.e.Logback [Logback.java:15] Search was successful.
 2023-04-25 19:06:25,924 INFO [main] o.e.Logback [Logback.java:21] URL after search: https://www.facebook.com/search/top/?q=Pulp%20Fiction
+2023-04-26 16:30:08,571 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:966] Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-26 16:30:08,585 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1021] Exporting webdriver.chrome.driver as C:\Users\ruxia\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-26 16:30:12,464 INFO [main] o.e.Logback [Logback.java:17] User home page loaded.
+2023-04-26 16:30:12,661 INFO [main] o.e.Logback [Logback.java:19] Search text input was successful.
+2023-04-26 16:30:13,687 INFO [main] o.e.Logback [Logback.java:15] Search was successful.
+2023-04-26 16:30:13,691 INFO [main] o.e.Logback [Logback.java:21] URL after search: https://www.facebook.com/search/top/?q=Pulp%20Fiction
+2023-04-26 16:31:35,947 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:966] Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-26 16:31:35,982 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1021] Exporting webdriver.chrome.driver as C:\Users\ruxia\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-26 16:31:38,429 INFO [main] o.e.Logback [Logback.java:17] User home page loaded.
+2023-04-26 16:31:38,607 INFO [main] o.e.Logback [Logback.java:19] Search text input was successful.
+2023-04-26 16:31:39,624 INFO [main] o.e.Logback [Logback.java:15] Search was successful.
+2023-04-26 16:31:39,630 INFO [main] o.e.Logback [Logback.java:21] URL after search: https://www.facebook.com/search/top/?q=Pulp%20Fiction
+2023-04-26 16:51:24,878 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:966] Using chromedriver 112.0.5615.49 (resolved driver for Chrome 112)
+2023-04-26 16:51:24,913 INFO [main] i.g.b.w.WebDriverManager [WebDriverManager.java:1021] Exporting webdriver.chrome.driver as C:\Users\ruxia\.cache\selenium\chromedriver\win32\112.0.5615.49\chromedriver.exe
+2023-04-26 16:51:27,520 INFO [main] o.e.Logback [Logback.java:17] User home page loaded.
+2023-04-26 16:51:27,683 INFO [main] o.e.Logback [Logback.java:19] Search text input was successful.
+2023-04-26 16:51:28,703 INFO [main] o.e.Logback [Logback.java:15] Search was successful.
+2023-04-26 16:51:28,708 INFO [main] o.e.Logback [Logback.java:21] URL after search: https://www.facebook.com/search/top/?q=Pulp%20Fiction
